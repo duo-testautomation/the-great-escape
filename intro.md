@@ -20,7 +20,7 @@ Before we start working on our requests, let's create two variables that each ca
 - baseUrl
 - apikey
 
-For each request, the baseUrl is specified for the endpoint ("/start", "/towers", etc.). And each API call requires an apikey so that the API knows who sent the message.
+For each request, the baseUrl is specified before the endpoint ("/start", "/towers", etc.). And each API call requires an apikey so that the API knows who sent the message.
 
 
 
