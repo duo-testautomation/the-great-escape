@@ -3,15 +3,10 @@
 If all goes well, you should now have a collection in Postman with requests for the following methods and endpoints:
 
 - GET to /start
-
 - GET to /towers
-
 - GET to /combination_lock?solution=###
-
 - POST to /towers
-
 - GET to /tool_support/call_specialist/#####
-
 - DELETE to /remove_lock/####
 
 With these six steps/requests, it's possible to escape, but you need to share quite a bit of information between the different API calls, so it's never going to be possible to do this within the given five seconds. To succeed, we'll need to use some code to share the necessary data between the API calls.
