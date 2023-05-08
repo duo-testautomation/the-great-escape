@@ -45,3 +45,4 @@ test('should start the room and get math assignment', async ({request}) => {
     console.log('Answer puzzle 1: ' + answer)  
 });
 ```
+[Next](../03.%20puzzle2.md)
