@@ -1,6 +1,6 @@
 [Back](../06.%20puzzle5.md)
 
-### Solution using Rest Assured
+### Solution using Rest Assured Puzzle number 5
 ```java
 // add this variable
 int escapeCode;

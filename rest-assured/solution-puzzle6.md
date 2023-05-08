@@ -1,6 +1,6 @@
 [Back](../07.%20puzzle6.md)
 
-### Solution using Rest Assured
+### Solution using Rest Assured Puzzle number 6
 ```java
     @Test
     public void ecapeTheApi() {

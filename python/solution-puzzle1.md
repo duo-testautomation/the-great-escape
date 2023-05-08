@@ -1,5 +1,5 @@
 [Back](../02.%20puzzle1.md)
-### Solution using Python
+### Solution using Python Puzzle number 1
 In this example solution the `requests` library was used. You can install it with the following command:
 ``pip install requests``
 

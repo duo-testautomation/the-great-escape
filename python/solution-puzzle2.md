@@ -1,6 +1,6 @@
 [Back](../03.%20puzzle2.md)
 
-### Solution using Python
+### Solution using Python Puzzle number 2
 Here you can create your own towers class to get the right order. The towers class used in this example look like this:
 **Towers.py**
 ```python

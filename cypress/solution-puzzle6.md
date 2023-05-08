@@ -1,6 +1,6 @@
 [Back](../07.%20puzzle6.md)
 
-###  Solution using Cypress
+###  Solution using Cypress Puzzle number 6
 ```typescript
 it("should escape", () => {  
     cy.request({  

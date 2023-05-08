@@ -1,6 +1,6 @@
 [Back](../06.%20puzzle5.md)
 
-###  Solution using Playwright
+###  Solution using Playwright Puzzle number 5
 ```typescript
  // Add this to the class variables, or leave it here
 let escapeCode

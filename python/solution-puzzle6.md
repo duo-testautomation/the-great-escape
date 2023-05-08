@@ -1,6 +1,6 @@
 [Back](../07.%20puzzle6.md)
 
-### Solution using Python
+### Solution using Python Puzzle number 6
 ```python
 def open_door():  
 	print(f"The code for the door is {escapecode}")  

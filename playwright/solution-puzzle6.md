@@ -1,6 +1,6 @@
 [Back](../07.%20puzzle6.md)
 
-###  Solution using Playwright
+###  Solution using Playwright Puzzle number 6
 ```typescript 
 test('should escape', async ({request}) => {  
     const response = await request.delete(`/duo/remove_lock/${escapeCode}`);  

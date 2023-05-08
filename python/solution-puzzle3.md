@@ -1,6 +1,6 @@
 [Back](../04.%20puzzle3.md)
 
-### Solution using Python
+### Solution using Python Puzzle number 3
 ```python
 def enter_combination_lock():  
 	print(f"Entering the code {sum} in the combination lock")  

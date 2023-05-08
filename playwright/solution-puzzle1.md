@@ -1,6 +1,6 @@
 [Back](../02.%20puzzle1.md)
 
-### Solution using Playwright
+### Solution using Playwright Puzzle number 1
 Working with playwright gives you the option to set a baseUrl and headers which will be added to every request playwright does. To use that add this to your `playwright.config.ts`
  ```json
  use: {   

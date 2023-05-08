@@ -1,6 +1,6 @@
 [Back](../06.%20puzzle5.md)
 
-### Solution using Python
+### Solution using Python Puzzle number 5
 ```python
 toolMap = {  
 "Postman": 32843,  

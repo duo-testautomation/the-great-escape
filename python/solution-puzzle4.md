@@ -1,6 +1,6 @@
 [Back](../05.%20puzzle4.md)
 
-### Solution using Python
+### Solution using Python Puzzle number 4
 ```python
 def enter_towers_correct_order():  
 	endpoint = baseUri + "duo/towers"  

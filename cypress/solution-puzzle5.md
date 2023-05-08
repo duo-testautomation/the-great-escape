@@ -1,6 +1,6 @@
 [Back](../06.%20puzzle5.md)
 
-###  Solution using Cypress
+###  Solution using Cypress Puzzle number 5
 ```typescript
  // Add this to the rest of the variables, or leave it here
 let escapeCode

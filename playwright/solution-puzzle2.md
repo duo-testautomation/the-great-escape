@@ -1,6 +1,6 @@
 [Back](../03.%20puzzle2.md)
 
-### Solution using Playwright
+### Solution using Playwright Puzzle number 2
 For this solution i have chosen to create a typescript class which represents the towers. I made a class in the same dir as the test and named it **towers.ts** with this content:
  ```typescript
  export class Towers{  

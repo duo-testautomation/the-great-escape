@@ -1,6 +1,6 @@
 [Back](../04.%20puzzle3.md)
 
-### Solution using Cypress
+### Solution using Cypress Puzzle number 3
 Only thing to do with this request is using the answer variable which contains the right answer and use it in the request url. Then store the solution1 header in a new variable:
  ```typescript
  // Add this to the rest of the variables, or leave it here

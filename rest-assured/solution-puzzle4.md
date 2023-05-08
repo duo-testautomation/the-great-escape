@@ -1,6 +1,6 @@
 [Back](../05.%20puzzle4.md)
 
-### Solution using Rest Assured
+### Solution using Rest Assured Puzzle number 4
 ```java
 // add these variables
     String solution2Header;

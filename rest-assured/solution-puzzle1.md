@@ -1,5 +1,5 @@
 [Back](../02.%20puzzle1.md)
-### Solution using Rest Assured
+### Solution using Rest Assured Puzzle number 1
 In this example solution we used a maven project with the following dependencies:
 
 - junit

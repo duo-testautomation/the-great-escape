@@ -1,6 +1,6 @@
 [Back](../05.%20puzzle4.md)
 
-###  Solution using Playwright
+###  Solution using Playwright Puzzle number 4
 ```typescript
 // Add these to the class variables, or leave them here
 let solution2  
