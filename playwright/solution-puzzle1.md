@@ -11,7 +11,7 @@ Working with playwright gives you the option to set a baseUrl and headers which 
 },
 ```
 
-Because this isnt a normal test and we need to make several api requests and handle their responses, you want to overide the default setting to run with multiple workers.  The reason for this is we want to run our test in a specific order, and when you are using multiple workers you might end up doing a request when you dont have the correct data to do it yet. So in the config chance the line which starts with
+Because this isn't a normal test and we need to make several api requests and handle their responses, you want to override the default setting to run with multiple workers.  The reason for this is we want to run our test in a specific order, and when you are using multiple workers you might end up doing a request when you don't have the correct data to do it yet. So in the config chance the line which starts with
 ``workers: process.env.CI``  to ``workers: 1,``.
 
 When you have that config in place you can let playwright do the work by making a new spec.ts file and insert this test:

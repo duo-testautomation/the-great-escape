@@ -1,7 +1,7 @@
 [Back](../03.%20puzzle2.md)
 
 ### Solution using Playwright Puzzle number 2
-For this solution i have chosen to create a typescript class which represents the towers. I made a class in the same dir as the test and named it **towers.ts** with this content:
+For this solution I have chosen to create a typescript class which represents the towers. I made a class in the same dir as the test and named it **towers.ts** with this content:
  ```typescript
  export class Towers{  
     aKerk: number;  
@@ -21,7 +21,7 @@ For this solution i have chosen to create a typescript class which represents th
 }
 ```
 
-With that in place i added this test to the spec.ts file:
+With that in place I added this test to the spec.ts file:
 ```typescript
 // Add this to the class variables, or leave it here
 let towers: Towers;

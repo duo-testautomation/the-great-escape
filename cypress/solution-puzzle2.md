@@ -1,7 +1,7 @@
 [Back](../03.%20puzzle2.md)
 
 ### Solution using Cypress Puzzle number 2
-Using cypress I have chosen to make a json file for each of the three possibilities and put them in the fixtures folder. So I have 3 jsons and named them:
+Using cypress I have chosen to make a json file for each of the three possibilities and put them in the 'fixtures' folder. So I have 3 jsons and named them:
 
 - alphabetic.json
 - construction.json

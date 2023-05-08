@@ -1,7 +1,7 @@
 [Back](../03.%20puzzle2.md)
 
 ### Solution using Rest Assured Puzzle number 2
-For this solution i have chosen to create a java class which represents the towers. I made a class in the same dir as the test and named it **towers.java** with this content:
+For this solution I have chosen to create a java class which represents the towers. I made a class in the same dir as the test and named it **towers.java** with this content:
  ```java
  public class Towers {
     int aKerk;

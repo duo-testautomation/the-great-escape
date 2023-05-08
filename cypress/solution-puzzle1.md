@@ -1,7 +1,7 @@
 [Back](../02.%20puzzle1.md)
 
 ### Solution using Cypress Puzzle number 1
-Also cypress gives you the option to make use of a baseUrl. You can set this url in the `cypress.config.ts` for typescript or `cypress.config.js` if you use javascript.
+Also, cypress gives you the option to make use of a baseUrl. You can set this url in the `cypress.config.ts` for typescript or `cypress.config.js` if you use javascript.
 Add this line in the e2e object of your config: `baseUrl: 'https://ta-workshop.nl/duo',`
 
 When you have that config in place you can let cypress do the work by making a new cy.ts file and insert this test:
